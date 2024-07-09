@@ -1,3 +1,7 @@
+## 🔴About
+Standard Pong with random events.
+<br>
+
 ## 🕹️Download Game
 [Download Here!](https://drive.google.com/file/d/1jdKCMcd7HSpdF5E5gVzkEdgN3ArTWr1w/view?usp=drive_link)
 <br>
